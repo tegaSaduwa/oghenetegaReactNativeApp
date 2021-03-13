@@ -1,0 +1,12 @@
+{
+  "name": "ogheneteganativegokadaapp",
+  "displayName": "ogheneteganativegokadaapp",
+  "expo": {
+    "name": "ogheneteganativegokadaapp",
+    "slug": "ogheneteganativegokadaapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
